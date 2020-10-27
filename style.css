@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
     grid-gap: 10px;
-    max-width: 50%;
+    max-width: 49%;
     left: 25%;
     top: 15%;
     grid-template-rows: repeat(3,minmax(150px,auto));  
@@ -15,7 +15,7 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
     /*grid-gap: 10px;*/
-    width: 50%;
+    width: 674px;
     /* max-width: 69%; */
     left: 25%;
     top: 160%;
