@@ -20,7 +20,6 @@ for(let i=0;i<arr.length;i++){
   else if(arr[num]==="go study")
   div0[i].style.background='gold';
  arrcheck.push(num);
- div0[i].innerHTML=arr[num];
  div[i].setAttribute('id',arr[num]);
 };   
 div.forEach(e => {
