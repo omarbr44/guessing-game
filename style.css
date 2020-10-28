@@ -53,13 +53,14 @@ div{
         
         @media(max-width:500px){
             #container1{
-                max-width: 70%;
+                max-width: 80%;
+                left: 15%;
 
 }
 
            #container{
-          
-            max-width: 70%;
+            left: 15%;
+            max-width: 80%;
 
            }
             }
